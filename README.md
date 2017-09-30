@@ -3,6 +3,6 @@ This software is to keep eye on every user who uses your computer . Actually  it
 
                                          ----------------------Features----------------------------------
                                          
-       1.It gets keys from keyboard and then save in file with Screenshot
+                                1.It gets keys from keyboard and then save in file with Screenshot
 
-       2.It Captures screenshot and then saves it with text which the victim will write
+                                2.It Captures screenshot and then saves it with text which the victim will write
